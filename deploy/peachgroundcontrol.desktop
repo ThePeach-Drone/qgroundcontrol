@@ -1,9 +1,10 @@
 [Desktop Entry]
 Type=Application
-Name=QGroundControl
+Name=Peach-GroundControl
 GenericName=Ground Control Station
 Comment=UAS ground control station
-Icon=qgroundcontrol
-Exec=qgroundcontrol-start.sh
+Icon=PLogoFull
+Exec=peachgroundcontrol-start.sh
 Terminal=false
 Categories=Utility;
+Name[en_US]=peachgroundcontrol.desktop
